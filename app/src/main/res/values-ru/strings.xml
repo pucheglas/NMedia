@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">НМедиа</string>
-    <string name="nmedia">НМедиа!</string>
+    <string name="textTitleNetology">"Нетология. Университет интернет профсиий "</string>
+    <string name="date_time">28 июня в 23:01</string>
+    <string name="text_content">Привет, это говая Нетология! Когда-то Нетология начиналась с интенсивов по онлайн-маркетингу. Затем появились курсы по дизайну, разработке, аналитике и управлению. Мы растем сами и помогаем расти студентам: от новичков до уверенных прфессионалов.</string>
 </resources>
