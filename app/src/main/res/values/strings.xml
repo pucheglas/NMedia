@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">NMedia</string>
-    <string name="textTitleNetology">"University of Internet Professions. dsfjgnsdjfgn l;sdjfng ;sdjfgn ;sdfgn ;sdfgn "</string>
+    <string name="textTitleNetology">"University of Internet Professions."</string>
     <string name="date_time">28 june 23:01</string>
     <string name="text_content">Hi, this is a new Netology! Once Netology began with intensive courses in online marketing. Then there were courses in design, development, analytics and management. We grow ourselves and help students grow: from beginners to confident professionals.</string>
     <string name="text_visibility" translatable="false">500</string>
